@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/DauTruong100_Server/nbproject/private/
